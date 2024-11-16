@@ -1,6 +1,41 @@
-# fam
+# An Hybrid Contract Farming Application
 
-A new Flutter project.
+This Project aims to act as a bridge between retailers and farmers to sign contracts on mutual understanding.
+
+🌾 Contract Farming Platform (Flutter App)
+
+A mobile application built with Flutter to connect farmers and retailers for secure and transparent contract farming agreements. The app streamlines the process of posting crop offers, negotiating deals, and managing contracts to ensure a reliable marketplace for both parties.
+
+📱 Features
+
+	•	Post & View Proposals: Farmers can list crop offers, and retailers can browse through available proposals.
+	•	Contract Management: Securely negotiate, sign, and track the status of contracts.
+	•	Real-time Updates: Receive notifications on contract milestones, crop price changes, and payment confirmations.
+	•	User Authentication: Secure login and registration for farmers and retailers.
+
+🚀 Getting Started
+
+Prerequisites
+
+	•	Flutter SDK
+	•	Android Studio or Visual Studio Code
+	•	Firebase account setup
+
+Installation
+
+	1.	Clone the Repository:
+      git clone https://github.com/your-username/ContractFarmingApp.git
+      cd ContractFarmingApp
+      
+  2.	Install Dependencies:
+    	flutter pub get
+    	
+  4.	Configure Firebase:
+	  •	Add your google-services.json (Android) and GoogleService-Info.plist (iOS) files to the respective directories.
+	  •	Set up Firebase Authentication and Firestore in your Firebase console.
+
+	4.	Run the App:
+     flutter run
 
 ## Getting Started
 
