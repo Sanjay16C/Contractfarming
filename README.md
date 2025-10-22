@@ -11,6 +11,7 @@ A mobile application built with Flutter to connect farmers and retailers for tra
 •	Contract Management: Securely negotiate, sign, and track the status of contracts.
 •	Real-time Updates: Receive notifications on contract milestones, crop price changes, and payment confirmations.
 •	User Authentication: Secure login and registration for farmers and retailers.
+![IMG-20251022-WA0019](https://github.com/user-attachments/assets/a14307a7-6b05-4914-9b39-6551a70f2c80)
 
 🚀 Getting Started
 
